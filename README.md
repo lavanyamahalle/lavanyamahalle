@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lavanyamahalle
+- 👀 I’m interested in web development, full-stack projects, and innovative solutions in urban governance.
+- 🌱 I’m currently learning advanced MERN stack techniques and contributing to impactful projects like the Smart India Hackathon.
+- 💞️ I’m looking to collaborate on challenging web development projects, hackathons, and innovative tech initiatives.
+- 📫 How to reach me: [Email](mailto:lavanyamahalle2004@gmail.com) | [GitHub](https://github.com/lavanyamahalle) | [Portfolio](https://66c64317466d4771481e3344--chic-lamington-ce6869.netlify.app/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love blending creativity and technology to build meaningful projects, and I’m always up for brainstorming new ideas over a cup of coffee!
