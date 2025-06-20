@@ -3,16 +3,22 @@
 Aspiring Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
 </h3>
 <p align="center">
-I'm a passionate Full-Stack Developer with hands-on experience in building scalable and user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in crafting responsive frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, and developing robust backends with <strong>Node.js and Express.js</strong>.
+I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
 
-Currently expanding my expertise into <strong>Cloud Technologies</strong>, focusing on deployment, serverless functions, and cloud storage using platforms like <strong>Render, Vercel, Firebase, and AWS</strong>.
+Currently expanding my skill set in <strong>Cloud Technologies</strong>, focusing on deployment, serverless architecture, and cloud storage solutions using platforms such as <strong>Render, Vercel, Firebase, and AWS</strong>.
 
-I've developed and deployed multiple projects, including a <strong>Spotify Clone, Weather Widget, E-Commerce Platform</strong>, and several dynamic React-based applications. My programming toolkit includes <strong>C, C++, JavaScript</strong> and strong foundations in <strong>Data Structures & Algorithms</strong>.
+I’ve built and deployed a range of impactful projects including:
+<ul align="center">
+  <li><strong>Termsheet Validator</strong> – A tool for streamlining and validating legal and financial documents</li>
+  <li><strong>Universal Text-to-Speech Engine</strong> – A multilingual TTS app supporting English and Marathi</li>
+  <li><strong>Spotify Clone</strong>, <strong>Weather Widget</strong>, <strong>E-Commerce Platform</strong>, and more</li>
+</ul>
 
-Outside of development, I actively serve as an <strong>MHT CET Counsellor</strong>, helping students navigate college admissions and career choices.
+Beyond development, I actively contribute as an <strong>MHT CET Counsellor</strong>, guiding students through college admission processes and helping them make informed decisions.
 
-I am driven by continuous learning, exploring <strong>Next.js, system design, AI-enhanced applications</strong>, and embracing modern full-stack cloud practices to build efficient and production-ready solutions.
+I’m committed to continuous learning and currently exploring <strong>Next.js, System Design, AI-integrated Web Apps</strong>, and modern <strong>Full-Stack Cloud Architectures</strong> to deliver production-ready solutions.
 </p>
+
 
 - 🔭 I’m currently working at [Ekalipi Technologies](One Script. Endless Understanding.)
 
