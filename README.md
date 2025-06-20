@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Lavanya Mahalle</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack | Frontend Enthusiast Experienced in React.js, JavaScript, HTML5, CSS3, and Bootstrap, with a strong foundation in MongoDB, Express.js, and Node.js. Passionate about building scalable and user-friendly web applications. Developed projects including a Spotify Clone, Weather Widget, E-Commerce Website, and multiple React-based applications. Skilled in C, C++, and Data Structures with hands-on experience in web development tools. Beyond technical expertise, I actively contribute as an MHT CET Counsellor, guiding students through the admission process, helping them make informed decisions about colleges and courses. Seeking opportunities to apply my skills, learn new technologies, and grow as a Full-Stack Developer.</h3>
+<h3 align="center">
+Aspiring Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
+</h3>
+<p align="center">
+I'm a passionate Full-Stack Developer with hands-on experience in building scalable and user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in crafting responsive frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, and developing robust backends with <strong>Node.js and Express.js</strong>.
+
+Currently expanding my expertise into <strong>Cloud Technologies</strong>, focusing on deployment, serverless functions, and cloud storage using platforms like <strong>Render, Vercel, Firebase, and AWS</strong>.
+
+I've developed and deployed multiple projects, including a <strong>Spotify Clone, Weather Widget, E-Commerce Platform</strong>, and several dynamic React-based applications. My programming toolkit includes <strong>C, C++, JavaScript</strong> and strong foundations in <strong>Data Structures & Algorithms</strong>.
+
+Outside of development, I actively serve as an <strong>MHT CET Counsellor</strong>, helping students navigate college admissions and career choices.
+
+I am driven by continuous learning, exploring <strong>Next.js, system design, AI-enhanced applications</strong>, and embracing modern full-stack cloud practices to build efficient and production-ready solutions.
+</p>
 
 - 🔭 I’m currently working at [Ekalipi Technologies](One Script. Endless Understanding.)
 
