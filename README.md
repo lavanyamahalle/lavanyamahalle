@@ -2,13 +2,13 @@
 <h3 align="center">
 Aspiring Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
 </h3>
-<p align="center">
+<p >
 I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
 
 Currently expanding my skill set in <strong>Cloud Technologies</strong>, focusing on deployment, serverless architecture, and cloud storage solutions using platforms such as <strong>Render, Vercel, Firebase, and AWS</strong>.
 
 I’ve built and deployed a range of impactful projects including:
-<ul align="center">
+<ul>
   <li><strong>Termsheet Validator</strong> – A tool for streamlining and validating legal and financial documents</li>
   <li><strong>Universal Text-to-Speech Engine</strong> – A multilingual TTS app supporting English and Marathi</li>
   <li><strong>Spotify Clone</strong>, <strong>Weather Widget</strong>, <strong>E-Commerce Platform</strong>, and more</li>
