@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavanya Mahalle</h1>
 <h3 align="center">
-Aspiring Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
+ Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
 </h3>
 <p >
 I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
