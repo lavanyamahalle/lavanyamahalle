@@ -9,7 +9,8 @@ Currently expanding my skill set in <strong>Cloud Technologies</strong>, focusin
 
 I’ve built and deployed a range of impactful projects including:
 <ul>
-  <li><strong>Termsheet Validator</strong> – A tool for streamlining and validating legal and financial documents</li>
+  <li><strong>Community learning platform </strong> – Designed and launched a student-first learning product to bridge the gap between technical skill-building and college curriculum,
+mentorship, and placement readiness.</li>
   <li><strong>Universal Text-to-Speech Engine</strong> – A multilingual TTS app supporting English and Marathi</li>
   <li><strong>Spotify Clone</strong>, <strong>Weather Widget</strong>, <strong>E-Commerce Platform</strong>, and more</li>
 </ul>
@@ -22,7 +23,7 @@ I’m committed to continuous learning and currently exploring <strong>Next.js, 
 
 - 🔭 I’m currently working at [Ekalipi Technologies](One Script. Endless Understanding.)
 
-- 🌱 I’m currently learning **Next.js, System Design, Tailwind CSS, Advanced MERN Stack with AI, Clean Code Practices, Data Structure And Algorithm**
+- 🌱 I’m currently learning ** System Design, Tailwind CSS, Advanced MERN Stack with AI, Clean Code Practices, Data Structure And Algorithm**
 
 - 👯 I’m looking to collaborate on **https://learning-iota-three.vercel.app/**
 
