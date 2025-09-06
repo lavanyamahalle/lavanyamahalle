@@ -3,6 +3,9 @@
  Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
 </h3>
 <p >
+
+ ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&repo=YOUR_REPO&color=blue)
+
 I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
 
 Currently expanding my skill set in <strong>Cloud Technologies</strong>, focusing on deployment, serverless architecture, and cloud storage solutions using platforms such as <strong>Render, Vercel, Firebase, and AWS</strong>.
