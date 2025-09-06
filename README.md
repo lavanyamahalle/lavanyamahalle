@@ -4,7 +4,7 @@
 </h3>
 <p >
 
-![](https://komarev.com/ghpvc/?username=your-github-lavanyamahalle)
+![](https://komarev.com/ghpvc/?username=lavanyamahalle&style=for-the-badge)
 
 I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
 
