@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lavanya Mahalle</h1>
 <h3 align="center">
- Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
+ Full-Stack Developer | MERN Stack | Cloud & AI Enthusiast
 </h3>
 <p >
 <p align="center">
