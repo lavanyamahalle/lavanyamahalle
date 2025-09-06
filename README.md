@@ -3,8 +3,10 @@
  Full-Stack Developer | MERN Stack | Cloud & Frontend Enthusiast
 </h3>
 <p >
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lavanyamahalle&style=for-the-badge" alt="Profile views counter"/>
+</p>
 
- <h1 align="centre"> ![](https://komarev.com/ghpvc/?username=lavanyamahalle&style=for-the-badge) </h1>
 
 I’m a passionate Full-Stack Developer with practical experience in building scalable, user-friendly web applications using the <strong>MERN Stack (MongoDB, Express.js, React.js, Node.js)</strong>. I specialize in creating responsive and accessible frontends with <strong>React.js, JavaScript, HTML5, CSS3, Tailwind CSS, and Bootstrap</strong>, along with developing secure and efficient backend APIs.
 
