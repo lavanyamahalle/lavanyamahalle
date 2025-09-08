@@ -22,7 +22,7 @@ mentorship, and placement readiness.</li>
 
 Beyond development, I actively contribute as an <strong>MHT CET Counsellor</strong>, guiding students through college admission processes and helping them make informed decisions.
 
-I’m committed to continuous learning and currently exploring <strong>Next.js, System Design, AI-integrated Web Apps</strong>, and modern <strong>Full-Stack Cloud Architectures</strong> to deliver production-ready solutions.
+I’m committed to continuous learning and currently exploring <strong> System Design, AI-integrated Web Apps</strong>, and modern <strong>Full-Stack Cloud Architectures</strong> to deliver production-ready solutions.
 </p>
 
 
